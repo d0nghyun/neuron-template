@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Environment
+.env
+.env.local
+
+# Personal overrides (for when using as base)
+.personal/
